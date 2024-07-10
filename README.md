@@ -11,7 +11,7 @@ less features.
 > [!NOTE]
 > This library contains only a subset of the HA-MQTT integrations. They
 > are supported with minimal options. For complex designs consider the
-> [Alternatives](alternatives) listed below.
+> [Alternatives](#alternatives) listed below.
 
 
 ## Details
